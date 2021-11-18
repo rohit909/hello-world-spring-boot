@@ -44,8 +44,7 @@
               <content>/* (C) Private company */</content>
             </licenseHeader>
           </java>
-          <!--                    enable the below line once the repo is reformatted and only the newer commits need to be reformatted-->
-          <!--                    <ratchetFrom>origin/master</ratchetFrom>-->
+          <ratchetFrom>origin/master</ratchetFrom>
           <pom>
             <includes>
               <include>pom.xml</include>
